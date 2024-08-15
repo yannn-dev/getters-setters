@@ -1,0 +1,14 @@
+C:\Users\prefe\OneDrive\Documentos\Projetos\C#\Getters and setters\Getters and setters\bin\Debug\net8.0\Getters and setters.exe
+C:\Users\prefe\OneDrive\Documentos\Projetos\C#\Getters and setters\Getters and setters\bin\Debug\net8.0\Getters and setters.deps.json
+C:\Users\prefe\OneDrive\Documentos\Projetos\C#\Getters and setters\Getters and setters\bin\Debug\net8.0\Getters and setters.runtimeconfig.json
+C:\Users\prefe\OneDrive\Documentos\Projetos\C#\Getters and setters\Getters and setters\bin\Debug\net8.0\Getters and setters.dll
+C:\Users\prefe\OneDrive\Documentos\Projetos\C#\Getters and setters\Getters and setters\bin\Debug\net8.0\Getters and setters.pdb
+C:\Users\prefe\OneDrive\Documentos\Projetos\C#\Getters and setters\Getters and setters\obj\Debug\net8.0\Getters and setters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prefe\OneDrive\Documentos\Projetos\C#\Getters and setters\Getters and setters\obj\Debug\net8.0\Getters and setters.AssemblyInfoInputs.cache
+C:\Users\prefe\OneDrive\Documentos\Projetos\C#\Getters and setters\Getters and setters\obj\Debug\net8.0\Getters and setters.AssemblyInfo.cs
+C:\Users\prefe\OneDrive\Documentos\Projetos\C#\Getters and setters\Getters and setters\obj\Debug\net8.0\Getters and setters.csproj.CoreCompileInputs.cache
+C:\Users\prefe\OneDrive\Documentos\Projetos\C#\Getters and setters\Getters and setters\obj\Debug\net8.0\Getters and setters.dll
+C:\Users\prefe\OneDrive\Documentos\Projetos\C#\Getters and setters\Getters and setters\obj\Debug\net8.0\refint\Getters and setters.dll
+C:\Users\prefe\OneDrive\Documentos\Projetos\C#\Getters and setters\Getters and setters\obj\Debug\net8.0\Getters and setters.pdb
+C:\Users\prefe\OneDrive\Documentos\Projetos\C#\Getters and setters\Getters and setters\obj\Debug\net8.0\Getters and setters.genruntimeconfig.cache
+C:\Users\prefe\OneDrive\Documentos\Projetos\C#\Getters and setters\Getters and setters\obj\Debug\net8.0\ref\Getters and setters.dll
